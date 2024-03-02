@@ -20,8 +20,4 @@ Power BI is a powerful business analytics tool by Microsoft that enables users t
 - Make sure to provide clear documentation and instructions on how to use the project.
 - Follow the existing folder structure and naming conventions.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
 
