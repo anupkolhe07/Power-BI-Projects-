@@ -24,4 +24,4 @@ Power BI is a powerful business analytics tool by Microsoft that enables users t
 
 This repository is licensed under the [MIT License](LICENSE).
 
-Happy analyzing with Power BI! 🚀📊
+
